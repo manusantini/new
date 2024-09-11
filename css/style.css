@@ -86,3 +86,11 @@ footer {
     width: 100%;
     bottom: 0;
 }
+img:hover {
+    transform: scale(1.1); /* Aumenta el tamaño de la imagen al pasar el ratón sobre ella */
+}
+img {
+    width: 50%; /* imagen/
+    transform: scaleX(1.5); /aumentar tamaño /
+    transition: transform 0.3s ease; / animacion */
+}
